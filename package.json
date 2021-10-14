@@ -1,0 +1,20 @@
+{
+  "name": "memory-limitations",
+  "version": "1.0.0",
+  "description": "Test the limits of NodeJS heap allocations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "soon"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Memory"
+  ],
+  "author": "Camilo Reyes",
+  "license": "ISC"
+}
